@@ -2,7 +2,10 @@
 
 A Python-based project that scrapes the Billboard Hot 100 chart for a specific date and creates a Spotify playlist with those songs.  
 
+---
+
 ## Features  
+
 - Scrape the top 100 songs from Billboard for any given date.  
 - Automatically search for these songs on Spotify.  
 - Create a private Spotify playlist with the songs found.  
@@ -21,7 +24,7 @@ A Python-based project that scrapes the Billboard Hot 100 chart for a specific d
    - Client ID  
    - Client Secret  
 
-4. A Spotify account.
+4. A Spotify account.  
 
 ---
 
